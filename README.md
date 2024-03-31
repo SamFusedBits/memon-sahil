@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=memon-sahil.memon-sahil&left_text=Profile%20Views"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SamFusedBits.SamFusedBits&left_text=Profile%20Views"/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=38&Center=true&width=500&height=74&duration=4000&lines=Hi+There!+👋;+I'm Sahil+Memon!;"/>
@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/sahil-memon">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
   </a>  
-  <a href="https://twitter.com/msahilstwt">
+  <a href="https://twitter.com/SamFusedBits">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a>
@@ -53,7 +53,7 @@
 <div align="center">
   <h2>🐍 My contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/memon-sahil/memon-sahil/output/github-contribution-grid-snake.svg"/>  
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SamFusedBits/SamFusedBits/output/github-contribution-grid-snake.svg"/>  
 
   <br/><br/><br/>
 </div> 
@@ -61,9 +61,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=memon-sahil&count_private=true&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://streak-stats.demolab.com/?user=SamFusedBits&count_private=true&border_radius=10" alt="streak stats"/>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=memon-sahil&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamFusedBits&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
 </div>
 
 <br/><br/>
