@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SamFusedBits.SamFusedBits&left_text=Profile%20Views"/>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=38&Center=true&width=500&height=74&duration=4000&lines=Hi+There!+👋;+I'm Sahil+Memon!;"/>
 </h1>
