@@ -1,20 +1,18 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=38&Center=true&width=500&height=74&duration=4000&lines=Hi+There!+👋;+I'm Sahil+Memon!;"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=40&Center=true&width=700&height=74&duration=4000&lines=Hey+there!+🧑‍💻;+I'm+Sahil+Memon⚡;+A+Full+Stack+Developer+from+India."/>
 </h1>
-
-<h3 align="center">A passionate software developer from India </h3>
 
 <br/>
 
 <div align="center">
 
- 🔭 I'm currently working on **Web and Android development projects**
- 
- 🌱 I'm currently learning **Java, Development & DSA**
+🔭 Currently, I'm engaged in **Web and Android development projects**
 
- 💬 Ask me about **Javascript, Python, Java, MySQL, Development... or anything [here](https://msahil.bio.link/)**
+🤺 Eagerly expanding my skills in **Java, software development, and Data Structures & Algorithms**
 
- ⚡ Fun fact **The term 'Wi-Fi' doesn't actually stand for anything. It was a play on 'Hi-Fi,' which means high fidelity. Wi-Fi just sounded catchier!**
+💬 Happy to discuss **Javascript, Python, Java, MySQL, Development, or any related topic [here](https://msahil.bio.link/)**
+
+📶 Fun fact - **The term 'Wi-Fi' doesn't actually stand for anything. It was a play on 'Hi-Fi,' which means high fidelity. Wi-Fi just sounded catchier!**
 
  </div>
 
@@ -33,7 +31,8 @@
 
   <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚡Technologies</h2>
+<h2 align="center"> Language - Libraries & Framework - Tools ⚒️</h2>
 <br/>
 <div align="center">
   <a href="https:skillicons.dev">
@@ -46,14 +45,14 @@
 <br/>
 
 <div align="center">
-  <h2>🐍 My contributions 🐍</h2>
+  <h2>🐍 My github activity graph 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SamFusedBits/SamFusedBits/output/github-contribution-grid-snake.svg"/>  
 
   <br/><br/><br/>
 </div> 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">📈 Stats 📈</h2>
 <br>
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com/?user=SamFusedBits&count_private=true&border_radius=10" alt="streak stats"/>
@@ -65,7 +64,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=28&Center=true&width=500&height=74&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=28&Center=true&width=500&height=74&duration=4000&lines=Thanks+for+dropping+by+✌️;+Reach+out+to+me+for+collaborations!;"/>
 </h3>
 
 <br/>
