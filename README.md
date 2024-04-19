@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=40&Center=true&width=700&height=74&duration=4000&lines=Hey,+there+👨‍💻.+I'm+Sahil⚡;+Great+to+see+you+here!+👋"/>
 </h1>
 
- I'm Sahil Memon, a tech enthusiast with a passion for becoming a Full Stack Developer. Currently, I'm deeply engaged in web and Android development projects🤺. I thrive on collaboration and welcome innovative ideas. Find out more about me & feel free to connect with me [here](msahil.bio.link)
+ I'm Sahil Memon, a tech enthusiast with a passion for becoming a Full Stack Developer. Currently, I'm deeply engaged in web and Android development projects🤺. I thrive on collaboration and welcome innovative ideas. Find out more about me & feel free to connect with me [here](https://msahil.bio.link)
  
 <div align="center">
   <a href="mailto:ms.sahilmemon@gmail.com">
