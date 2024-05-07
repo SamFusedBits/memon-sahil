@@ -1,8 +1,16 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=40&Center=true&width=700&height=74&duration=4000&lines=Hey,+there+👨‍💻.+I'm+Sahil⚡;+Great+to+see+you+here!+👋"/>
-</h1>
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVid3Z0cGp6ZWJpOG1yOTAweGR5eWV5Z2V0YmhveWRpbndudjkzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vTr3WiTdqpL6GOT5mF/giphy.gif" alt="Animated Logo" width="350" height="330">
+    </td>
+    <td>
+      <h1>Hey, curious minds! 🚀</h1>
+    </td>
+  </tr>
+</table>
 
- I'm Sahil Memon, a tech enthusiast with a passion for becoming a Full Stack Developer. Currently, I'm deeply engaged in web and Android development projects🤺. I thrive on collaboration and welcome innovative ideas. Find out more about me & feel free to connect with me [here](https://msahil.bio.link)
+
+ I'm <b>Sahil Memon</b>, a tech enthusiast with a passion for becoming a Full Stack Developer. Currently, I'm deeply engaged in web and Android development projects🤺. I thrive on collaboration and welcome innovative ideas. Find out more about me & feel free to connect with me [here](https://msahil.bio.link)
  
 <div align="center">
   <a href="mailto:ms.sahilmemon@gmail.com">
@@ -44,6 +52,4 @@
 <br/><br/>
 <hr/>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=28&Center=true&width=500&height=74&duration=4000&lines=Reach+out+to+me+for+collaborations!+👋;"/>
-</h3>
+<h1 align="center">Ctrl your code, Alt your journey! 🗺️</h1>
